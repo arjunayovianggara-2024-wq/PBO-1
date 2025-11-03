@@ -3,6 +3,8 @@
 #include <algorithm>
 using namespace std;
 
+Puqi
+
 
 // Struktur untuk menyimpan sisi (edge)
 struct Edge {
@@ -95,3 +97,4 @@ int main() {
     cout << "Total bobot minimum = " << totalWeight << endl;
     return 0;
 }
+
